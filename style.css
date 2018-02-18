@@ -1,0 +1,16 @@
+canvas{
+	border:none;
+	z-index: 0;
+	position: relative;
+	
+}
+h1{
+	color:#5264ae;
+	z-index: 1;
+	position: absolute;
+	top: 60%;
+	width: 100%;
+	text-align: center;
+
+}
+
